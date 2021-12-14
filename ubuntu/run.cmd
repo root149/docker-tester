@@ -1,0 +1,1 @@
+docker run -it ubuntu-tester /bin/bash
